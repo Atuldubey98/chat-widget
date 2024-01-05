@@ -1,0 +1,13 @@
+.chat__widget{
+  position: fixed;
+  max-width: 450px;
+  bottom: 1rem;
+  background-color: white;
+  right: 0;
+}
+
+button{
+  right: 2rem;
+  bottom: 0.5rem;
+  position: fixed;
+}

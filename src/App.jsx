@@ -1,0 +1,10 @@
+import React from 'react'
+import './App.css'
+export default function App() {
+  return (   
+      <div className="chat__widget">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora accusantium blanditiis perspiciatis, odit numquam eligendi qui nam autem fugit sequi odio hic neque magnam consequuntur, veritatis sed magni sint rem dolorum inventore suscipit. Ex iusto, sint pariatur illo odio quaerat vero excepturi laboriosam, quisquam magnam, in eveniet? Unde, enim. Autem quam quis totam fugit ab atque veritatis aliquam ipsa ex et magni ullam, nemo consequatur dignissimos impedit perferendis libero, consectetur non ad rerum adipisci soluta voluptatibus quidem. Temporibus, culpa alias! Ipsa alias perferendis sunt dignissimos assumenda perspiciatis ipsum? Eveniet autem ipsa vel tempora, porro quibusdam, illo repudiandae id optio soluta alias. Illo qui quod maxime reiciendis similique earum incidunt laboriosam officia sapiente fugiat quisquam, repellendus culpa cum, molestias asperiores quos vero, eum repellat sit? Repellat error reprehenderit fugiat culpa, ratione est facilis ullam provident, quam, ab odit explicabo. Reprehenderit pariatur cupiditate iusto atque esse ipsam eum aut vitae, quis illo qui ipsum consectetur labore quae similique reiciendis unde nemo assumenda. Officiis labore voluptatem sapiente maiores suscipit fugiat libero rerum omnis cum, blanditiis nobis aliquid laborum vel sunt quaerat eveniet aspernatur dolore nemo voluptates ducimus earum inventore harum ipsum. Exercitationem perferendis eaque asperiores enim, ratione optio consectetur id corrupti commodi! Ducimus tenetur ad illum. Voluptas vitae facere explicabo distinctio fugiat hic adipisci, enim, perferendis dolor sunt in minima eveniet nulla libero sequi laboriosam dicta inventore, itaque architecto? Itaque quam esse reiciendis sapiente porro sunt perspiciatis consectetur assumenda molestiae deserunt soluta nam fugiat repellat doloremque commodi accusantium quibusdam, illum vel quia veniam.</p>
+        <button>+</button>
+      </div>
+    )
+}
